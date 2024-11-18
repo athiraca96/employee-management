@@ -21,10 +21,14 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-Installation
+Installation Steps:
 
-Install Composer and Npm
+Install Composer and npm.
 
 Clone the repository: git clone git@github.com:athiraca96/employee-management.git
 
-Install dependencies: composer install ; npm install ; npm run dev
+Install dependencies: composer install, npm install, and npm run dev.
+
+Update the .env file and set the database details.
+
+To start the server, run php artisan serve.
