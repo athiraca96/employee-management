@@ -24,5 +24,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 Installation
 
 Install Composer and Npm
+
 Clone the repository: git clone git@github.com:athiraca96/employee-management.git
+
 Install dependencies: composer install ; npm install ; npm run dev
